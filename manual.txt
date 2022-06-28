@@ -1,0 +1,16 @@
+************* Process Manager Manual *************
+
+the first feature in the process manager is to list (display) all processes running in the system in details
+including the user of the process, process ID, CPU utilization, memory utilization, start time, time running 
+and other details as well.
+==============================================================================================================
+the second feature in the process manager is to list all processes running in the system by a specific user without much
+details, only process name, process ID, and time.
+==============================================================================================================
+the third feauture is to display the ID of processes running in the system without much further details.
+==============================================================================================================
+the fourth feature is to kill (stop) a specific process running in the system by providing the process ID.
+==============================================================================================================
+The fifth feature is to send specific signal to a specific task by providing the number 
+and ID of the process using the kill function and mostly we send signals to the process in order to kill it.
+==============================================================================================================
